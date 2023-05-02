@@ -1,2 +1,2 @@
-# soundWave
+# Wave Sound
  
